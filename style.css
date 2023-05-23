@@ -3,17 +3,17 @@ color:#fff;
 background-color:#7FFFD4;
 }
 /**header**/
-#header-nav{
+.header-nav{
 	background-color: #FFFF00;
 	border-radius: 0px;
 	border:0px;
 }
-#navbar-brand{color: black;
+.navbar-brand{color: black;
            text-transform: uppercase;
            font-size: 1.5em;
            padding-top:5px;
 }
-#navbar-toggler{
+.navbar-header button.navbar-toggler,.navbar-toggler-icon{
 	border:1px solid black;
 }
 h1{text-transform: uppercase;
